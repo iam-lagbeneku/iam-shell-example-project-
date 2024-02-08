@@ -1,2 +1,2 @@
-# iam-shell-example-project-
+# iam-shell-example-project
 shell-example-project 
